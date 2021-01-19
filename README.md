@@ -5,3 +5,14 @@ We are working with IBM and the Nature Conservancy to create an open water datab
 - [IBM](https://www.ibm.com/)
 - [The Nature Conservancy](https://www.nature.org/)
 
+## Team Members
+
+- [Andrew Johnson]()
+## https://github.com/Ajjme
+- [Edith Grossman]()
+- [Sonia Aronson]()
+- [Liam Maxwell]()
+- [Clara Hu]()
+- [Ahmed Elauri]()
+- [Adriana Rangel]()
+- [Nikki]()
