@@ -15,4 +15,4 @@ We are working with IBM and the Nature Conservancy to create an open water datab
 - [Clara Hu]()
 - [Ahmed Elauri]()
 - [Adriana Rangel]()
-- [Nikki]()
+- [Nikki Zhang]()
