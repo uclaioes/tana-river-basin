@@ -8,7 +8,7 @@ We are working with IBM and the Nature Conservancy to create an open water datab
 
 - [Sonia Aronson](https://sonia-aronson.github.io)
 - [Liam Maxwell](https://liammaxwell19.github.io)
-- [Clara Hu]()
+- [Clara Hu](https://claralhu.github.io/)
 - [Ahmed Elauri]()
 - [Adriana Rangel](https://asrangel939.github.io)
 - [Nikki]()
